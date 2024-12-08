@@ -1,0 +1,314 @@
+{
+  "clientes": [
+    {
+      "id_cliente": 3,
+      "nome": "Carlos Mendes",
+      "cpf": "321.654.987-00",
+      "dt_nascimento": "1980-11-05",
+      "endereco": "Rua dos Jacarandás, 789, Curitiba - PR",
+      "email": "carlos.mendes@email.com",
+      "telefone": "(41) 98765-1234",
+      "contatos": [
+        {
+          "id_contato": 4,
+          "tipo_contato": "Celular",
+          "valor_contato": "(41) 91234-5678",
+          "descricao": "Contato pessoal"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 4,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 5,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 4,
+      "nome": "Ana Costa",
+      "cpf": "456.789.123-00",
+      "dt_nascimento": "1995-06-18",
+      "endereco": "Avenida Paulista, 999, São Paulo - SP",
+      "email": "ana.costa@email.com",
+      "telefone": "(11) 92345-6789",
+      "contatos": [
+        {
+          "id_contato": 5,
+          "tipo_contato": "Telefone fixo",
+          "valor_contato": "(11) 4321-9876",
+          "descricao": "Residencial"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 6,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 7,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 5,
+      "nome": "Bruno Martins",
+      "cpf": "789.123.456-00",
+      "dt_nascimento": "1992-03-14",
+      "endereco": "Rua das Palmeiras, 12, Belo Horizonte - MG",
+      "email": "bruno.martins@email.com",
+      "telefone": "(31) 99876-5432",
+      "contatos": [
+        {
+          "id_contato": 6,
+          "tipo_contato": "Celular",
+          "valor_contato": "(31) 91234-8765",
+          "descricao": "WhatsApp"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 8,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 9,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 6,
+      "nome": "Carla Nunes",
+      "cpf": "654.321.987-00",
+      "dt_nascimento": "1988-08-23",
+      "endereco": "Praça das Flores, 45, Porto Alegre - RS",
+      "email": "carla.nunes@email.com",
+      "telefone": "(51) 92345-6789",
+      "contatos": [
+        {
+          "id_contato": 7,
+          "tipo_contato": "E-mail alternativo",
+          "valor_contato": "carla.nunes.work@email.com",
+          "descricao": "E-mail de trabalho"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 10,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 11,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 7,
+      "nome": "Diego Lima",
+      "cpf": "987.654.123-00",
+      "dt_nascimento": "1998-12-10",
+      "endereco": "Rua da Praia, 99, Recife - PE",
+      "email": "diego.lima@email.com",
+      "telefone": "(81) 98765-4321",
+      "contatos": [
+        {
+          "id_contato": 8,
+          "tipo_contato": "Celular",
+          "valor_contato": "(81) 92345-1234",
+          "descricao": "Contato pessoal"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 12,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 13,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 8,
+      "nome": "Fernanda Castro",
+      "cpf": "321.987.654-00",
+      "dt_nascimento": "1985-05-12",
+      "endereco": "Rua dos Limoeiros, 56, Salvador - BA",
+      "email": "fernanda.castro@email.com",
+      "telefone": "(71) 99876-5432",
+      "contatos": [
+        {
+          "id_contato": 9,
+          "tipo_contato": "Telefone fixo",
+          "valor_contato": "(71) 2345-6789",
+          "descricao": "Residencial"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 14,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 15,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 9,
+      "nome": "Gabriel Souza",
+      "cpf": "654.987.321-00",
+      "dt_nascimento": "1993-07-30",
+      "endereco": "Avenida Brasil, 300, Manaus - AM",
+      "email": "gabriel.souza@email.com",
+      "telefone": "(92) 98765-4321",
+      "contatos": [
+        {
+          "id_contato": 10,
+          "tipo_contato": "E-mail alternativo",
+          "valor_contato": "gabriel.souza.work@email.com",
+          "descricao": "E-mail de trabalho"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 16,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 17,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 10,
+      "nome": "Isabela Rocha",
+      "cpf": "321.123.456-00",
+      "dt_nascimento": "1990-09-15",
+      "endereco": "Rua Azul, 1010, Fortaleza - CE",
+      "email": "isabela.rocha@email.com",
+      "telefone": "(85) 98765-4321",
+      "contatos": [
+        {
+          "id_contato": 11,
+          "tipo_contato": "Telefone fixo",
+          "valor_contato": "(85) 2345-6789",
+          "descricao": "Residencial"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 18,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 19,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 11,
+      "nome": "Júlia Mendes",
+      "cpf": "654.321.123-00",
+      "dt_nascimento": "1995-11-22",
+      "endereco": "Rua Verde, 555, Florianópolis - SC",
+      "email": "julia.mendes@email.com",
+      "telefone": "(48) 98765-4321",
+      "contatos": [
+        {
+          "id_contato": 12,
+          "tipo_contato": "E-mail alternativo",
+          "valor_contato": "julia.mendes.work@email.com",
+          "descricao": "E-mail de trabalho"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 20,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 21,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    },
+    {
+      "id_cliente": 12,
+      "nome": "Ricardo Alves",
+      "cpf": "321.456.789-00",
+      "dt_nascimento": "1987-04-04",
+      "endereco": "Rua Amarela, 77, Vitória - ES",
+      "email": "ricardo.alves@email.com",
+      "telefone": "(27) 98765-4321",
+      "contatos": [
+        {
+          "id_contato": 13,
+          "tipo_contato": "Celular",
+          "valor_contato": "(27) 92345-1234",
+          "descricao": "Contato pessoal"
+        }
+      ],
+      "documentos": [
+        {
+          "id_documento": 22,
+          "tipo_documento": "Foto",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        },
+        {
+          "id_documento": 23,
+          "tipo_documento": "Assinatura Eletrônica",
+          "data_inclusao": "2024-12-08",
+          "conteudo": "BASE64_ENCODED_CONTENT"
+        }
+      ]
+    }
+  ]
+}
